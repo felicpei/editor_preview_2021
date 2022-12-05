@@ -1,0 +1,6 @@
+#Sound表			
+#	描述	资源路径	音量[0.0,1.0]
+id	desc__s	resource	volume
+			
+#Bgm(1-10)			
+1	空音效	Audios/null.ogg	1

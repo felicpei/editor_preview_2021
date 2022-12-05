@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Obstacle
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 993514287
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2947689625
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI_Splash
+    uniqueID: 3911214973
+    locked: 0
+  - name: UI_Main
+    uniqueID: 234625485
+    locked: 0
+  - name: UI_View
+    uniqueID: 1151763837
+    locked: 0
+  - name: UI_Tips
+    uniqueID: 1524616451
+    locked: 0
+  - name: UI_Loding
+    uniqueID: 195874493
+    locked: 0

@@ -1,0 +1,5 @@
+#³¡¾°			
+#			
+id	name	path	sceneClass
+0	Maincity	Scenes/Maincity/Maincity.unity	MainCity
+1	Test	Scenes/Test/Test.unity	Mission

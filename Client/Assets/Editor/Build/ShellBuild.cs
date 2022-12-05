@@ -63,6 +63,7 @@ public static class ShellBuild
 	    Build(_buildPathWindows, BuildTarget.StandaloneWindows64, BuildTargetGroup.Standalone, false);
     }
    
+    /*
     [MenuItem("XEngine/Build/Android_Debug", false, 3)]
     public static void Build_AndroidDebug()
     {
@@ -96,6 +97,7 @@ public static class ShellBuild
 	    DeleteDirectory(_buildOutWebGL);
 	    Build(_buildOutWebGL, BuildTarget.WebGL, BuildTargetGroup.WebGL, false);
     }
+    */
     
     /*
     [MenuItem("XEngine/ShellBuild/IOS_Debug", false, 1)]
